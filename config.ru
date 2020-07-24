@@ -239,7 +239,8 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Welcome to your Ruby application on OpenShift</h1>
+            <h1>Welcome to a simple Ruby application on openshift.dave-hobbs.uk</h1>
+            <h2>This app has a GitHub webhook configured to make OpenShift automatically start a build on code push<h2>
           </hgroup>
 
 
